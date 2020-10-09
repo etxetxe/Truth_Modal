@@ -1,0 +1,10 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8629E5BB-4C2E-86A7-A444-ABB2C590B1C3}",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor"
+	]
+}
