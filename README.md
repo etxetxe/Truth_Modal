@@ -16,4 +16,10 @@
 
 ## Qu'est-ce que c'est ?
 
-Dans le cadre de mon [mémoire de recherche](https://github.com/etxetxe/DNSEP_Report_EESI_2020) portant sur la bifurcation, je m'intéresse à la conception et à la réalisation d'espaces navigable
+Dans le cadre de mon [mémoire de recherche](https://github.com/etxetxe/DNSEP_Report_EESI_2020) portant sur la bifurcation, je m'intéresse à la conception et à la réalisation d'espaces navigable par le biais des outils de la réalité virtuelle. Ceci est le dépôt compilant toutes les itérations de mon projet, L'intitulé et le type d'expérience que je souhaite faire dans cet espace immersif n'est pas encore bien défini, les éléments et modes d'interaction au sein de cet univers restant à inventer.
+
+## Comment ça marche ?
+
+Vous êtes invités à dupliquer, forker, modifier le projet selon les termes de la LICENSE, l'idée étant pour moi de me familiariser avec les modalités interactionnelles du travail collaboratif asynchrone et petit-à-petit développer des réflexes de développeur.
+
+### *En cours de rédaction ...*
