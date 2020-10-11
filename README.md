@@ -12,6 +12,8 @@
 >time in new media?) And, finally, what are the aesthetics of navigation through
 >virtual space?
 
+[Lev Manovich - Navigable Space](http://manovich.net/index.php/projects/navigable-space)
+
 ## Qu'est-ce que c'est ?
 
-Dans le cadre de mon [mémoire de recherche](https://github.com/etxetxe/DNSEP_Report_EESI_2020) portant sur la bifurcation, je m'intéresse à la conception et à la réalisation d'espaces naviguable
+Dans le cadre de mon [mémoire de recherche](https://github.com/etxetxe/DNSEP_Report_EESI_2020) portant sur la bifurcation, je m'intéresse à la conception et à la réalisation d'espaces navigable
