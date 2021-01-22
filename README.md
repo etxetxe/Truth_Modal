@@ -24,11 +24,15 @@ Au travers d'une fiction politique en réalité virtuelle, je souhaiterais poser
 
 Pour plus de [précisions](https://github.com/etxetxe/VR_Bifurcation/wiki/Notes-de-conception)
 
+***
+
 ![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/VRDraw1.png)
 
 ![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/VRDraw2.png)
 
 ![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/VRDraw3.png)
+
+***
 
 ## Comment ça marche ?
 
