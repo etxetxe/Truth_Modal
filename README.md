@@ -23,3 +23,9 @@ Dans le cadre de mon [mémoire de recherche](https://github.com/etxetxe/DNSEP_Re
 Vous êtes invités à dupliquer, forker, modifier le projet selon les termes de la LICENSE, l'idée étant pour moi de me familiariser avec les modalités interactionnelles du travail collaboratif asynchrone et petit-à-petit développer des réflexes de développeur.
 
 ### *En cours de rédaction ...*
+
+![image](![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/VRDraw1.png)
+
+![image](![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/VRDraw2.png)
+
+![image](![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/VRDraw3.png)
