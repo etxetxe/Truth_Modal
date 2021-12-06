@@ -1,7 +1,5 @@
 # Projet VR Oculus Quest en dépôt
 
-*Developed with Unreal Engine 4*
-
 >To summarize, along with a database, navigable space is another key form of
 >new media. It is already an accepted way for interacting with any type of data; an
 >interface of computer games and motion simulators and, potentially, of any computer
