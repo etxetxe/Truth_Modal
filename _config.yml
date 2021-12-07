@@ -28,6 +28,8 @@ timezone:               Etc/UTC
 
 markdown: kramdown
 
+layout: style
+
 exclude:
   - Gemfile
   - Gemfile.lock
