@@ -2,7 +2,7 @@
 
 En posant le constat inquiétant que l'actualité en flux continu influence les politiques, même lorsqu'elle est fausse, cette expérience XR souhaite faire prendre connaissance au spectateur de ses propres biais d'interprétation de l'information au travers d'une expérience narrative en réalité virtuelle.
 
-![video](https://github.com/etxetxe/VR_Bifurcation/blob/master/Firefly-First-person-mixed-reality-experience-filmed-from-the-player's-perspective-using-Meta-Quest.mp4)
+![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/FFirefly_First-person_mixed_reality_experience_filmed_from_the_player's_perspective_using_Meta_Quest_.gif)
 
 ## 🎯 Objectif du joueur
 
