@@ -2,6 +2,8 @@
 
 En posant le constat inquiétant que l'actualité en flux continu influence les politiques, même lorsqu'elle est fausse, cette expérience XR souhaite faire prendre connaissance au spectateur de ses propres biais d'interprétation de l'information au travers d'une expérience narrative en réalité virtuelle.
 
+![video](https://github.com/etxetxe/VR_Bifurcation/blob/master/Firefly-First-person-mixed-reality-experience-filmed-from-the-player's-perspective-using-Meta-Quest.mp4)
+
 ## 🎯 Objectif du joueur
 
 Dans un environnement XR immersif, le joueur doit attraper, trier et stocker des objets virtuels représentant des informations. Chaque objet possède des caractéristiques spécifiques (poids, durée de vie, type) et peut être véridique ou faux. Le joueur doit optimiser ses décisions pour éviter la surcharge et maximiser le bon stockage d’objets avant la fin du temps imparti (10 minutes).
