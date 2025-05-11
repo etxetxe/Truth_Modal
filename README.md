@@ -22,6 +22,20 @@ Dans un environnement XR immersif, le joueur doit attraper, trier et stocker des
 - **Rythme croissant** : les objets apparaissent plus vite au fil du temps
 - **Tension narrative** : le joueur doit trier sous pression, ce qui simule le stress cognitif ou décisionnel
 
+## 📊 Feedback et évaluation
+
+### En temps réel :
+- Changements de couleur ou de forme des objets en fonction des décisions du joueur.
+- Sons spécifiques associés aux bonnes ou mauvaises décisions.
+- Vibrations ou autres retours haptiques pour renforcer l'immersion.
+
+### Fin de l'expérience :
+- Tableau de bord présentant :
+  - Nombre total d'objets traités.
+  - Taux de bonnes décisions.
+  - Temps moyen de réaction.
+  - Analyse des biais cognitifs détectés.
+
 ## 🧭 Structure temporelle (Timeline de 10 minutes)
 
 ### Introduction immersive (0:00 – 2:00)
@@ -99,24 +113,3 @@ Elle a une capacité limitée dépendant de :
 - Leur quantité accumulée
 
 Si trop d’erreurs ou dépassement → fin prématurée ou pénalité.
-
-## 📊 Feedback et évaluation
-
-### En temps réel :
-- Changements de couleur ou de forme des objets en fonction des décisions du joueur.
-- Sons spécifiques associés aux bonnes ou mauvaises décisions.
-- Vibrations ou autres retours haptiques pour renforcer l'immersion.
-
-### Fin de l'expérience :
-- Tableau de bord présentant :
-  - Nombre total d'objets traités.
-  - Taux de bonnes décisions.
-  - Temps moyen de réaction.
-  - Analyse des biais cognitifs détectés.
-
-## 🎓 Objectifs pédagogiques ou cognitifs
-
-- Gérer une charge cognitive croissante
-- Trier l'information rapidement
-- Prendre des décisions sous pression
-- Explorer les biais de tri ou d'attention
