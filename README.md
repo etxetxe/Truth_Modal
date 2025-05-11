@@ -36,49 +36,9 @@ Dans un environnement XR immersif, le joueur doit attraper, trier et stocker des
   - Temps moyen de réaction.
   - Analyse des biais cognitifs détectés.
 
-## 🧭 Structure temporelle (Timeline de 10 minutes)
-
-### Introduction immersive (0:00 – 2:00)
-
-Le joueur est plongé dans un environnement abstrait symbolisant le flux d'informations.  
-Apparition progressive des premiers objets/informations à trier.
-
-### Phase principale de tri (2:00 – 8:00)
-
-- Augmentation progressive de la fréquence et de la complexité des objets.
-- Introduction de "faux" objets (désinformation) nécessitant une analyse plus approfondie.
-- Feedback en temps réel sur les décisions du joueur (visuel, auditif, haptique).
-
-### Climax et conclusion (8:00 – 10:00)
-
-- Rythme effréné d'apparition des objets, simulant une surcharge informationnelle.
-- Évaluation finale des performances du joueur avec des statistiques détaillées.
-
-## 🧩 Éléments visuels et narratifs
-
-### Objets/Informations
-
-- Formes géométriques variées avec des textures et couleurs distinctes.
-- Certains objets portent des symboles ou textes évoquant des actualités ou faits divers.
-- Des objets "pièges" introduisent des biais cognitifs ou des informations trompeuses.
-
-### Environnement
-
-- Espace immersif en constante évolution, reflétant l'état mental du joueur (couleurs, luminosité, sons).
-- Présence de "zones de stockage" symbolisant la mémoire ou la conscience du joueur.
-
-## 🕹️ Boucle ludonarrative
-
-→ Apparaît un objet aléatoire avec un timer → Le joueur doit :
-
-↳ le saisir  
-↳ l’analyser (véridique ou faux)  
-↳ le stocker ou l’ignorer  
-
-→ Le stockage a un effet (feedback, score, surcharge possible)  
-→ Répéter jusqu’à la fin du temps imparti
-
 ## ⚙️ Mécaniques de jeu (gameplay loop)
+
+![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/Truth_Modal_Schema.jpg)
 
 ### 1. Phases du jeu
 
@@ -111,5 +71,4 @@ Les objets doivent être placés dans une zone de stockage avec collision.
 Elle a une capacité limitée dépendant de :
 - La taille des objets
 - Leur quantité accumulée
-
 Si trop d’erreurs ou dépassement → fin prématurée ou pénalité.
