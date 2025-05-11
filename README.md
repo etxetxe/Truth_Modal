@@ -38,7 +38,7 @@ Dans un environnement XR immersif, le joueur doit attraper, trier et stocker des
 
 ## ⚙️ Mécaniques de jeu (gameplay loop)
 
-![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/Truth_Modal_Schema.jpg)
+![image](https://github.com/etxetxe/VR_Bifurcation/blob/main/Truth_Modal_Schema.png)
 
 ### 1. Phases du jeu
 
@@ -71,4 +71,5 @@ Les objets doivent être placés dans une zone de stockage avec collision.
 Elle a une capacité limitée dépendant de :
 - La taille des objets
 - Leur quantité accumulée
+
 Si trop d’erreurs ou dépassement → fin prématurée ou pénalité.
